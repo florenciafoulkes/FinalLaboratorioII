@@ -1,25 +1,22 @@
-# Aplicación de escritorio en C# - Final Laboratorio II
+# Sistema de Gestión - Java
 
-Este proyecto fue realizado como entrega final para la materia **Laboratorio II**. Es una aplicación de escritorio desarrollada en C# con una interfaz gráfica para gestionar datos de inscripciones a cursos.
+Este proyecto fue realizado como trabajo final para la materia **Laboratorio II**. Se trata de un sistema de gestión para un negocio, que permite administrar productos, clientes, ventas y proveedores, con una interfaz gráfica creada en Java utilizando NetBeans.
 
 ## 🚀 Funcionalidades
 
-- [x] Carga y visualización de inscriptos
-- [x] Alta, baja y modificación de datos
-- [x] Manejo de listas genéricas
-- [x] Serialización de datos
-- [x] Persistencia en archivos
+- [x] ABM de productos, clientes y proveedores
+- [x] Registro y gestión de ventas
+- [x] Cálculo automático de totales
+- [x] Búsqueda y filtrado de datos
+- [x] Validaciones básicas de entrada de datos
 
 ## 🛠️ Tecnologías utilizadas
 
-- C#
-- Windows Forms
-- .NET Framework
+- Java
+- Swing (NetBeans GUI Builder)
+- POO (Herencia, Polimorfismo, Interfaces, Clases abstractas)
+- Listas para persistencia en memoria
 
 ## 🧠 Lo que aprendí
 
-Mejoré mi manejo del paradigma orientado a objetos, listas genéricas, eventos y serialización. Además, aprendí a desarrollar aplicaciones con interfaz gráfica usando Windows Forms.
-
-## 📂 Estructura del proyecto
-
-El proyecto está organizado en clases para representar las entidades, formularios para la UI, y métodos para operar sobre los datos cargados por el usuario.
+A través de este proyecto profundicé en la organización del código con el patrón MVC, el uso de interfaces gráficas en Java y el manejo de listas para almacenar datos en memoria.
